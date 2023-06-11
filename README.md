@@ -1,3 +1,31 @@
+![1admin-profile](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/dc836f0a-71d2-46c3-bf4a-b6375d9b3c7e)
+![2edit-profile](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/87a4a945-a545-40ca-9849-f72cef2372ea)
+![3change-password](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/21869161-2556-46d8-9123-430df30aaf43)
+![4home-slide](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/945ae72f-6d52-4b5c-a9f5-1c34ec07a84c)
+![5about-page](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/13ba9dd5-eece-4982-87ab-da4669796e00)
+![6about-multi-image](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/ddd583a7-2b11-43b9-9127-c2ca2a934788)
+![7all-multi-image](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/c5507a45-3be1-432c-8522-9b22e7ba3bdd)
+![8edit-multi-image](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/d7e08fdf-8151-437e-9255-355549738358)
+![9all-multi-image](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/e16d9eec-9711-4a5c-a07d-b25ef09ce22c)
+![10all-portfolio](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/99425a8e-d3c7-4b54-abfc-e3b441df842d)
+![11edit-portfolio-8](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/db35021f-0c38-42f0-8c5c-834afce2d635)
+![12add-portfolio](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/1b096418-6f3c-4cd5-b461-5e375ea50e12)
+![13all-blog-category](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/c337d7fe-8059-442e-81af-c4b407c64391)
+![14edit-blog-category](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/b761f51d-9a5c-497d-94c8-27a55c5022d6)
+![15add-blog-category](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/7dab6877-5029-4eba-b095-4fd0537e2261)
+![16all-blog](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/88cf4506-d371-47bf-8c35-b6fde3eda18f)
+![17edit-blog](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/6384ff29-f8d7-4d05-a7da-303a8b8d1973)
+![18add-blog](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/ed7c8831-4e53-41dc-9d71-52d19c4fd432)
+![19footer-setup](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/7067172c-364f-4a82-8729-6e41575347f2)
+![20contact-message](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/2555dbfb-5441-4168-a357-600d0e6b3150)
+![21screencapture](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/30431d40-ad01-40dd-9691-c63952249d48)
+![22about](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/2516c663-bb56-4150-ad39-e2914ad46f33)
+![23portfolio](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/6f8b2341-a29a-4c71-b79c-a698fc53a143)
+![24blog](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/c17257fb-ec7b-4f5d-8c0e-c20656e091b0)
+![25contact](https://github.com/andreiclcosa93/app_Blog_Laravel/assets/100482638/6e262d6a-d018-4a63-8c8a-bc11a3e2b138)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
